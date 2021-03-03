@@ -1,6 +1,6 @@
 {
   "name": "@jsnotepad/local-api",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "",
   "files": [
     "dist"
@@ -23,7 +23,7 @@
     "typescript": "^4.2.2"
   },
   "dependencies": {
-    "@jsnotepad/local-client": "^1.2.0",
+    "@jsnotepad/local-client": "^1.3.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.6"
